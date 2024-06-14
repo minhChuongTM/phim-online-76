@@ -1,0 +1,36 @@
+@media screen and (min-width: 768px) {
+    .header__nav {
+        /* flex-direction: row; */
+        flex-flow: row wrap;
+        justify-content: flex-start;
+        height: auto;
+        margin-right: 50px;
+    }
+    .header--menu {
+        top: 18%;
+    }
+}
+@media screen and (min-width: 1024px) {
+    .header--menu {
+        top: 15%;
+    }
+}
+@media screen and (max-width: 1199px) {
+    .header__nav-item {
+        width: 150px;
+        padding-right: 10px;
+    }
+}
+@media screen and (min-width: 1200px) {
+    .header__nav {
+        justify-content: unset;
+    }
+    .header--scroll {
+        top: -158px;
+    }
+}
+@media screen and (min-width: 1440px) {
+    .header__content {
+        padding: unset;
+    }
+}

@@ -1,0 +1,9 @@
+<script src="{{ asset('frontEnd')}}/js/jquery-3.5.1.min.js"></script>
+	<script src="{{ asset('frontEnd')}}/js/bootstrap.bundle.min.js"></script>
+	<script src="{{ asset('frontEnd')}}/js/owl.carousel.min.js"></script>
+	<script src="{{ asset('frontEnd')}}/js/slider-radio.js"></script>
+	<script src="{{ asset('frontEnd')}}/js/select2.min.js"></script>
+	<script src="{{ asset('frontEnd')}}/js/smooth-scrollbar.js"></script>
+	<script src="{{ asset('frontEnd')}}/js/jquery.magnific-popup.min.js"></script>
+	<script src="{{ asset('frontEnd')}}/js/plyr.min.js"></script>
+	<script src="{{ asset('frontEnd')}}/js/main.js"></script>
